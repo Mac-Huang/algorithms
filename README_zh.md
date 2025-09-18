@@ -44,7 +44,7 @@
 | 文件 | 描述 | 学习资源 |
 |------|------|----------|
 | `avl.c` | AVL树实现 | [BS树可视化](https://xuming.ai/demos/bs-tree.html) • [VisuAlgo - AVL树](https://visualgo.net/zh/bst) • [极客教程](https://www.geeksforgeeks.org/avl-tree-set-1-insertion/) |
-| `optimized_avl.c` | 优化的AVL树 | [CS161课程笔记](http://web.stanford.edu/class/cs161/schedule.html) |
+| `optimized_avl.c` | 优化的AVL树 | [CS161课程笔记](https://web.stanford.edu/class/cs161/) |
 | `23trees.c` | 2-3树实现 | [B+树可视化](https://xuming.ai/demos/bplus-tree.html) • [2-3树可视化](https://www.cs.usfca.edu/~galles/visualization/BTree.html) |
 | `splay.c` | 伸展树实现 | [伸展树可视化](https://www.cs.usfca.edu/~galles/visualization/SplayTree.html) |
 | `bst_insert.c` | 二叉搜索树插入 | [BS树可视化](https://xuming.ai/demos/bs-tree.html) • [BST可视化](https://www.cs.usfca.edu/~galles/visualization/BST.html) |
